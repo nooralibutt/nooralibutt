@@ -18,7 +18,6 @@
 - 💻 Creating awesome apps in [Flutter][Dart]
 - ✍️ Author of famous Ads Package [Easy_Ads](https://github.com/nooralibutt/easy-ads)
 
-
 ### Languages & Tools
 
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -31,13 +30,8 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 
-
-
 ### 📝 My GitHub Stats</summary>
 
-
-[![NoorAli's github stats](https://github-readme-stats.vercel.app/api?username=nooralibutt&theme=gotham)](https://github.com/nooralibutt/github-readme-stats)
-<br><br>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=nooralibutt&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 500>
+[![NoorAli's github stats](https://github-readme-stats.vercel.app/api?username=nooralibutt&theme=gotham)](https://github.com/nooralibutt/github-readme-stats) <img src = "https://github-readme-streak-stats.herokuapp.com?user=nooralibutt&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" align='right' >
 
 <br>
