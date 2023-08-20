@@ -34,7 +34,7 @@
 
 ![Noor's Github Profile Views](https://komarev.com/ghpvc/?username=nooralibutt&color=blueviolet)
 <br/>
-[![NoorAli's github stats](https://github-readme-stats.vercel.app/api?username=nooralibutt&theme=gotham)](https://github.com/nooralibutt/github-readme-stats) <img src = "https://github-readme-streak-stats.herokuapp.com?user=nooralibutt&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" align='right' width=50%>
+[![NoorAli's github stats](https://github-readme-stats.vercel.app/api?username=nooralibutt&theme=gotham)](https://github.com/nooralibutt/github-readme-stats)
 
 ### 🪪 Certifications
 
