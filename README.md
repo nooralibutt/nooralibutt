@@ -46,3 +46,4 @@
 <a href="https://www.linkedin.com/learning/certificates/1c4effe8bfa16d9c9e65b817bcb677afdfe1c64fafd6c78cdf36f2b53ea02f7b"><img src="https://img.shields.io/badge/ASO-258ffa?style=for-the-badge&logo=googleanalytics&logoColor=white"/></a>
 <a href="https://www.linkedin.com/learning/certificates/735d045cf73cdbaf473a2b3f3b7b9d6e91ed1de11f21614c056fe2fbf6fc5be2"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="https://www.linkedin.com/learning/certificates/5ccd17062856d43ef189893405e83c39b40e07652784fa835ab18123d83e10a6"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/></a>
+<a href="https://www.linkedin.com/learning/certificates/5458a6243d72acce60ec8db648286c3cf7c24d91ee7a6c8ec55bf260134975ac"><img src="https://img.shields.io/badge/Team%20Leadership-008ED2?style=for-the-badge&logo=slideshare&logoColor=white"/></a>
